@@ -1,0 +1,226 @@
+AD The Principality of Andorra 安道尔
+AE United Arab Emirates 阿拉伯联合酋长国
+AF Afghanistan 阿富汗
+AL Albania 阿尔巴尼亚
+AG ANtigua and Barbuda 安提瓜和巴布达
+AI 安圭拉
+AM Armenia 亚美尼亚
+AN 安的列斯群岛
+AO Angola安哥拉
+AQ Antarctica南极洲
+AR Argentina阿根廷
+AS 美属萨摩亚群岛
+AT Austria奥地利
+AU Australia 澳大利亚
+AZ Azerbaijan 阿塞拜疆
+BB 巴巴多斯
+BS Bahamas 巴哈马
+BH Bahrain 巴林
+BD Bangladesh 孟加拉国
+BB Barbados 巴巴多斯
+BY Belarus 白俄罗斯
+BZ Belize 伯利兹
+BE Belgium 比利时
+BJ Benin 贝宁
+BM Bermuda 百慕大
+BT Bhutan 不丹
+BO Bolivia 玻利维亚
+BA Bosnia and Herzegovina 波斯尼亚和黑塞哥维那
+BW Botswana 博茨瓦纳
+BV Bouvet Island 布维岛
+BR Brazil 巴西
+BN Brunei Darussalam 文莱
+BG Bulgaria 保加利亚
+BF Burkina Faso 布基纳法索
+BI Burundi 布隆迪
+CM Cameroon 喀麦隆
+CA Canada 加拿大
+CV Cape Verde 佛得角
+CF The Central African Republic 中非共和国
+CL Chile 智利
+CN The People's Republic of China 中华人民共和国
+CX Christmas Island 圣诞岛
+CO Colombia 哥伦比亚
+CH Switzerland 瑞士
+CG Congo 刚果共和国
+Democratic Republic of the Congo 刚果民主共和国
+CK Cook Island 库克群岛
+CR Costa rica 哥斯达黎加
+CI Coate d'Ivorie 科特迪瓦
+CU Cuba 古巴
+CV 维德岛
+CY Cyprus塞浦路斯
+CZ Czech捷克
+DK Denmark丹麦
+DJ Djibouti吉布提
+DM The Commonwealth of Dominica多米尼克
+DE Germany德国
+DO The Dominican Republic多米尼加
+DZ Algeria阿尔及利亚
+EC Ecuador厄瓜多尔
+EG Egypt埃及
+EH West Sahara西撒哈拉
+ES Spain西班牙
+EE Estonia爱沙尼亚
+ET Ethiopia埃塞俄比亚
+ER Eritrea厄立特里亚
+FJ Fiji斐济
+FI Finland芬兰
+FR France法国
+FM Micronesia密克罗尼西亚联邦
+FO法罗群岛
+GA Gabon加蓬
+GQ Equatorial Guinea赤道几内亚
+GF French Guiana法属圭亚那
+GM Gambia冈比亚
+GE Georgia格鲁吉亚
+GH Ghana加纳
+GI Gibraltar直布罗陀
+GR Greece希腊
+GL Greenland格陵兰
+GD Grenada格林纳达
+GU Guam关岛
+GT Guatemala危地马拉
+GN Guinea几内亚
+GW Guinea-Bissau几内亚比绍
+GY Guyana圭亚那
+HR Croatia克罗地亚
+HT Haiti海地
+HN Honduras洪都拉斯
+HU Hungary匈牙利
+IS Iceland冰岛
+IN India印度
+ID Indonesia印度尼西亚
+IR Iran伊朗
+IQ Iraq伊拉克
+IE Ireland爱尔兰
+IL Israel以色列
+IT Italy意大利
+JM Jamaica牙买加
+JP Japan日本
+JO Jordan约旦
+KZ Kazakhstan哈萨克斯坦
+KE Kenya肯尼亚
+KI Kiribati基里巴斯
+KP North Korea朝鲜
+KR South Korea韩国
+KH Cambodia柬埔寨
+KM Comoros科摩罗
+KN Saint Kitts and Nevis圣基茨和尼维斯
+KG Kyrgyzstan吉尔吉斯斯坦
+KW Kuwait科威特
+KY Cayman Islands开曼群岛
+LA Laos老挝
+LK Sri Lanka斯里兰卡
+LV Latvia拉托维亚
+LB Lebanon黎巴嫩
+LS Lesotho莱索托
+LR Liberia利比里亚
+LY Libya利比亚
+LI Liechtenstein列支敦士登
+LT Lithuania立陶宛
+LU Luxembourg卢森堡
+LC St. Lucia圣卢西亚
+MG Madagascar马达加斯加
+MN Montenegro黑山
+MW Malawi马拉维
+MY Malaysia马来西亚
+MV Maldives马尔代夫
+ML Mali马里
+MK Macedonia马其顿
+MT Malta马耳他
+MH Marshall Islands马绍尔群岛
+MR Mauritania毛里塔尼亚
+MU Mauritius毛里求斯
+MX Mexico墨西哥
+MD Moldova摩尔多瓦
+MC Monaco摩纳哥
+MN Mongolia蒙古
+MS Montserrat蒙特塞拉特
+MA Morocco摩洛哥
+MZ Mozambique莫桑比克
+MM Burma缅甸
+MP Northern Mariana Islands北马里亚那群岛
+NA Namibia纳米比亚
+NR Nauru瑙鲁
+NP Nepal尼泊尔
+NL Netherlands荷兰
+NC New Caledonia新喀里多尼亚
+NZ New Zealand新西兰
+NI Nicaragua尼加拉瓜
+NE Niger尼日尔
+NG Nigeria尼日利亚
+NU Niue纽埃
+NF Norfolk Island诺福克岛
+NO Norway挪威
+OM Oman阿曼
+PK Pakistan巴基斯坦
+PF French Polynesia法属波利尼西亚
+PW Palau帕劳
+PA Panama巴拿马
+PG Papua New Guinea巴布亚新几内亚
+PY Paraguay巴拉圭
+PE Peru秘鲁
+PH Philippines菲律宾
+PM 圣皮埃尔和密克罗
+PN Pitcairn Islands皮特开恩群岛
+PL Poland波兰
+PT Portugal葡萄牙
+PS 巴勒斯坦
+PR Puerto Rico波多黎各（美）
+QA Qatar卡塔尔
+RO Romania罗马尼亚
+RU Russia俄罗斯联邦
+RW Rwanda卢旺达
+SV El Salvador萨尔瓦多
+SH St.Helena圣赫勒拿
+SM San Marino圣马力诺
+ST Sao Tome and Principe圣多美和普林西比
+SA Saudi Arabia沙特阿拉伯
+SN Senegal塞内加尔
+SC Seychelles塞舌尔
+SL Sierra leone塞拉利昂
+SR Serbia塞尔维亚
+SG Singapore新加坡
+SK Slovakia斯洛伐克
+SI Slovene斯洛文尼亚
+SB Solomon Islands所罗门群岛
+SO Somali索马里
+SD Sudan苏丹
+South Sudan 南苏丹
+SU Surinam苏里南
+SZ Swaziland斯威士兰
+SE Sweden瑞典
+SY Syria叙利亚
+TD Chad乍得
+TJ Tajikistan塔吉克斯坦
+TZ Tanzania坦桑尼亚
+TH Thailand泰国
+TG Togo多哥
+TK Tokela托克劳
+TO Tonga汤加
+TT Trinidad and Tobago特立尼达和多巴哥
+TN Tunisia突尼斯
+TR Turkey土耳其
+TP East Timor东帝汶
+TM Turkmenistan土库曼斯坦
+TC Turks and Caicos Islands特克斯和凯科斯群岛
+TV Tuvalu图瓦卢
+UG Uganda乌干达
+UA Ukraine乌克兰
+UK United Kingdom英国
+US United States of America美国
+UY Uruguay乌拉圭
+UZ Uzbekistan乌兹别克斯坦
+VA Vatican City梵蒂冈
+VC Saint Vincent and the Grenadines圣文森特和格林纳丁斯
+VE Venezuela   委内瑞拉
+VN Vietnam  越南
+VG Virgin Islands(British)   英属维尔京群岛
+VI Vigin Islands(U.S.)  美属维尔京群岛
+VU Republic of Vanuatu瓦努阿图共和国
+WS Western Samoa   西萨摩亚
+YE Yemen  也门
+ZA South Africa南非
+ZM Zambia赞比亚
+ZW Zimbabwe津巴布韦

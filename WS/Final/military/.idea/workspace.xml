@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c71c21ad-a6b9-4d3e-aa0f-268ce5f36425" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/military/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/military/data/person/baidubaike_instance_rdf.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>7.62毫米通用机枪</find>
+      <find>ADE公司“黎明”</find>
+      <find>Ki-30/97式俯冲轰炸机</find>
+      <find>Ki-30/97式</find>
+      <find>贝尔-212</find>
+      <find>雅克-25</find>
+      <find>Ki-109试作特殊防空战斗机</find>
+      <find>A-7攻击机</find>
+      <find>歼-11战斗机</find>
+      <find>别里耶夫</find>
+      <find>别里耶夫Be</find>
+      <find>GAU</find>
+      <find>CRV</find>
+      <find>标签</find>
+      <find>别里耶夫Be-103双发涡桨水陆两用飞机</find>
+      <find>武器装备</find>
+      <find>国家</find>
+      <find>[3]</find>
+      <find>米</find>
+      <find>中国</find>
+      <find>美国</find>
+      <find>希腊</find>
+      <find>百慕大</find>
+      <find>俄罗斯联邦</find>
+      <find>苏</find>
+      <find>研发</find>
+      <find>俄罗斯别</find>
+      <find>nn</find>
+      <find>俄罗斯</find>
+      <find>Be-103</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ship_item</replace>
+      <replace>weapon_item</replace>
+      <replace>cannon_item</replace>
+      <replace>explosive_item</replace>
+      <replace>tank_item</replace>
+      <replace>missile_item</replace>
+      <replace>craft_item_2</replace>
+      <replace>space_item</replace>
+      <replace>ship_item_2</replace>
+      <replace>cannon_item_2</replace>
+      <replace>explosive_item_2</replace>
+      <replace>tank_item_2</replace>
+      <replace>missile_item_2</replace>
+      <replace>weapon_item_2</replace>
+      <replace>space_item_2</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/military/pipelines.py" />
+        <option value="$PROJECT_DIR$/begin.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
+        <option value="$PROJECT_DIR$/military/data/weapon/schema.txt" />
+        <option value="$PROJECT_DIR$/military/data/weapon/instance_huanqiujunshi.txt" />
+        <option value="$PROJECT_DIR$/military/construction/instance/weapon/huanqiujunshi_instance.py" />
+        <option value="$PROJECT_DIR$/military/data/weapon/instance.txt" />
+        <option value="$PROJECT_DIR$/military/construction/instance/weapon/zhonghuawuqiku_instance.py" />
+        <option value="$PROJECT_DIR$/military/data/weapon/instance_property.txt" />
+        <option value="$PROJECT_DIR$/military/fusion/instance/weapon_instance_fusion.py" />
+        <option value="$PROJECT_DIR$/military/txt2neo/weapon/weapon_schema.py" />
+        <option value="$PROJECT_DIR$/military/construction/instance/country/baidubaike_country_list.py" />
+        <option value="$PROJECT_DIR$/military/construction/instance/country/country_list.py" />
+        <option value="$PROJECT_DIR$/military/data/raw_country_list.txt" />
+        <option value="$PROJECT_DIR$/military/construction/instance/country/country_list_process.py" />
+        <option value="$PROJECT_DIR$/military/data/country/instance_property.txt" />
+        <option value="$PROJECT_DIR$/military/data/country/instance_rdf.txt" />
+        <option value="$PROJECT_DIR$/military/data/country/hudongbaike_instance_property.txt" />
+        <option value="$PROJECT_DIR$/military/data/country/hudongbaike_instance_rdf.txt" />
+        <option value="$PROJECT_DIR$/military/construction/instance/country/hudongbaike_instance.py" />
+        <option value="$PROJECT_DIR$/military/construction/schema/country/baidubaike_schema.py" />
+        <option value="$PROJECT_DIR$/military/construction/instance/country/baidubaike_instance.py" />
+        <option value="$PROJECT_DIR$/military/data/country/baidubaike_schema.txt" />
+        <option value="$PROJECT_DIR$/military/txt2neo/country/country_schema.py" />
+        <option value="$PROJECT_DIR$/military/txt2neo/weapon/weapon_instance.py" />
+        <option value="$PROJECT_DIR$/military/data/country/baidubaike_instance_property.txt" />
+        <option value="$PROJECT_DIR$/military/data/country/baidubaike_instance_rdf.txt" />
+        <option value="$PROJECT_DIR$/military/data/weapon/instance_rdf.txt" />
+        <option value="$PROJECT_DIR$/military/construction/instance/RDunit/RDunit_instance.py" />
+        <option value="$PROJECT_DIR$/military/data/RDunit/RDunit_list.txt" />
+        <option value="$PROJECT_DIR$/military/txt2neo/RDunit/RDunit_instance.py" />
+        <option value="$PROJECT_DIR$/military/txt2neo/relation/weapon_country_relationship.py" />
+        <option value="$PROJECT_DIR$/military/txt2neo/relation/weapon_RDunit_relationship.py" />
+        <option value="$PROJECT_DIR$/military/data/person/person_list.txt" />
+        <option value="$PROJECT_DIR$/military/construction/instance/war/war_instance.py" />
+        <option value="$PROJECT_DIR$/military/construction/instance/person/baidubaike_instance.py" />
+        <option value="$PROJECT_DIR$/military/construction/instance/war/baidubaike_instance.py" />
+        <option value="$PROJECT_DIR$/military/data/war/war_list.txt" />
+        <option value="$PROJECT_DIR$/military/data/war/baidubaike_instance_property.txt" />
+        <option value="$PROJECT_DIR$/military/data/war/baidubaike_instance_rdf.txt" />
+        <option value="$PROJECT_DIR$/military/data/person/baidubaike_schema.txt" />
+        <option value="$PROJECT_DIR$/military/txt2neo/country/country_instance.py" />
+        <option value="$PROJECT_DIR$/military/txt2neo/relation/country_person_relationship.py" />
+        <option value="$PROJECT_DIR$/military/data/person/baidubaike_instance_rdf.txt" />
+        <option value="$PROJECT_DIR$/military/txt2neo/person/person_instance.py" />
+        <option value="$PROJECT_DIR$/military/txt2neo/relation/person_country_relationship.py" />
+        <option value="$PROJECT_DIR$/military/txt2neo/top_schema.py" />
+        <option value="$PROJECT_DIR$/military/data/top_schema.txt" />
+        <option value="$PROJECT_DIR$/military/data/weapon/instance_zhonghuawuqiku.txt" />
+        <option value="$PROJECT_DIR$/military/data/war/raw_war_list.txt" />
+        <option value="$PROJECT_DIR$/military/query/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="military" type="b2602c69:ProjectViewProjectNode" />
+              <item name="military" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="military" type="b2602c69:ProjectViewProjectNode" />
+              <item name="military" type="462c0819:PsiDirectoryNode" />
+              <item name="military" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/WebScienceTeamwork-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\military\military\txt2neo" />
+      <recent name="D:\military\military\construction\schema" />
+      <recent name="D:\military\military\fusion\schema" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\military\military" />
+      <recent name="D:\military\military\construction\instance" />
+      <recent name="D:\military\military\data\country" />
+      <recent name="D:\military\military\txt2neo\weapon" />
+      <recent name="D:\military\military\data\uri" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.person_country_relationship">
+    <configuration name="RDunit_instance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="military" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/military/txt2neo/RDunit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/military/txt2neo/RDunit/RDunit_instance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="person_country_relationship" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="military" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/military/txt2neo/relation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/military/txt2neo/relation/person_country_relationship.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="person_instance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="military" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/military/txt2neo/person" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/military/txt2neo/person/person_instance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weapon_RDunit_relationship" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="military" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/military/txt2neo/relation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/military/txt2neo/relation/weapon_RDunit_relationship.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weapon_country_relationship" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="military" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/military/txt2neo/relation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/military/txt2neo/relation/weapon_country_relationship.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.person_country_relationship" />
+        <item itemvalue="Python.weapon_country_relationship" />
+        <item itemvalue="Python.weapon_RDunit_relationship" />
+        <item itemvalue="Python.person_instance" />
+        <item itemvalue="Python.RDunit_instance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c71c21ad-a6b9-4d3e-aa0f-268ce5f36425" name="Default Changelist" comment="" />
+      <created>1573614934005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573614934005</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1886196" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40520042" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947312" weight="0.3943662" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.31527627" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15700738" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36511377" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947312" weight="0.3943662" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.31527627" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../demo/venv/Lib/site-packages/py2neo/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="903" selection-start-line="903" selection-end-line="903" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/construction/instance/country/hudongbaike_instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/construction/instance/RDunit/RDunit_instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/construction/instance/country/baidubaike_instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/country/baidubaike_schema.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/construction/instance/person/baidubaike_instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1074220884/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="352" column="4" selection-start-line="352" selection-start-column="4" selection-end-line="352" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/person/person_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="852" column="3" selection-end-line="872" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/construction/instance/war/baidubaike_instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/person/baidubaike_schema.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/top_schema.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/txt2neo/country/country_schema.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/txt2neo/weapon/weapon_schema.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/txt2neo/top_schema.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/weapon/instance_zhonghuawuqiku.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/weapon/instance_huanqiujunshi.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12093" column="6" selection-start-line="12093" selection-end-line="12093" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/txt2neo/relation/person_country_relationship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/txt2neo/relation/weapon_country_relationship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/txt2neo/person/person_instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/txt2neo/RDunit/RDunit_instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/txt2neo/country/country_instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/txt2neo/relation/weapon_RDunit_relationship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/txt2neo/weapon/weapon_instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/fusion/instance/weapon_instance_fusion.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/fusion/schema/weapon_schema_fusion.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/war/war_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="5902" column="6" lean-forward="true" selection-start-line="5902" selection-start-column="6" selection-end-line="5902" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/war/raw_war_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3150">
+          <caret line="126" column="6" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/country/country_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="55" selection-start-line="55" selection-end-line="55" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/country/hudongbaike_instance_rdf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="6053" column="28" lean-forward="true" selection-start-line="6053" selection-start-column="28" selection-end-line="6053" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/country/baidubaike_instance_rdf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36181">
+          <caret line="4858" column="3" selection-start-line="4858" selection-start-column="3" selection-end-line="4858" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/RDunit/RDunit_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/country/hudongbaike_instance_property.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/war/baidubaike_instance_property.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/weapon/instance_property.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/weapon/schema.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/weapon/instance_rdf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="88621" column="24" selection-start-line="88621" selection-start-column="24" selection-end-line="88621" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/war/baidubaike_instance_rdf.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/country/baidubaike_instance_property.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="78" column="10" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/query/.idea/query.iml" />
+    <entry file="file://$PROJECT_DIR$/military/external_dict/dict.txt" />
+    <entry file="file://$PROJECT_DIR$/military/external_dict/dict1.txt" />
+    <entry file="file://$PROJECT_DIR$/military/word_tag.py" />
+    <entry file="file://$PROJECT_DIR$/military/new_test.py" />
+    <entry file="file://$PROJECT_DIR$/military/question_demo.py" />
+    <entry file="file://$PROJECT_DIR$/military/question2sparql.py" />
+    <entry file="file://$PROJECT_DIR$/military/query_test.py" />
+    <entry file="file://$PROJECT_DIR$/military/question2neo4j.py" />
+    <entry file="file://$PROJECT_DIR$/military/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/person/baidubaike_instance_property.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="844">
+          <caret line="669" column="30" selection-start-line="669" selection-start-column="30" selection-end-line="669" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/military/data/person/baidubaike_instance_rdf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

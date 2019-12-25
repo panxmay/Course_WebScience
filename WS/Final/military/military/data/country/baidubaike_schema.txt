@@ -1,0 +1,7 @@
+国家 subclass 亚洲
+国家 subclass 非洲
+国家 subclass 欧洲
+国家 subclass 北美洲
+国家 subclass 南美洲
+国家 subclass 大洋洲
+国家 subclass 南极洲

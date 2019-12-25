@@ -1,0 +1,5 @@
+军事 subclass 人物
+军事 subclass 战争
+军事 subclass 国家
+军事 subclass 兵器
+军事 subclass 研究机构
